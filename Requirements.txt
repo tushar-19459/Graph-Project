@@ -3,3 +3,5 @@ numpy
 matplotlib
 torch
 scikit-learn
+reportlab
+seaborn
