@@ -5,3 +5,5 @@ torch
 scikit-learn
 reportlab
 seaborn
+matplotlib-venn
+reportlab

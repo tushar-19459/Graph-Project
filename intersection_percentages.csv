@@ -1,0 +1,436 @@
+Column 1,Column 2,% in Intersection
+Radius (mean),Texture (mean),72.55
+Radius (mean),Perimeter (mean),0.0
+Radius (mean),Area (mean),0.0
+Radius (mean),Smoothness (mean),0.0
+Radius (mean),Compactness (mean),0.0
+Radius (mean),Concavity (mean),0.0
+Radius (mean),Concave points (mean),0.0
+Radius (mean),Symmetry (mean),0.0
+Radius (mean),Fractal dimension (mean),0.0
+Radius (mean),Radius (se),0.0
+Radius (mean),Texture (se),0.0
+Radius (mean),Perimeter (se),0.0
+Radius (mean),Area (se),69.47
+Radius (mean),Smoothness (se),0.0
+Radius (mean),Compactness (se),0.0
+Radius (mean),Concavity (se),0.0
+Radius (mean),Concave points (se),0.0
+Radius (mean),Symmetry (se),0.0
+Radius (mean),Fractal dimension (se),0.0
+Radius (mean),Radius (worst),99.02
+Radius (mean),Texture (worst),34.73
+Radius (mean),Perimeter (worst),0.0
+Radius (mean),Area (worst),0.0
+Radius (mean),Smoothness (worst),0.0
+Radius (mean),Compactness (worst),0.0
+Radius (mean),Concavity (worst),0.0
+Radius (mean),Concave points (worst),0.0
+Radius (mean),Symmetry (worst),0.0
+Radius (mean),Fractal dimension (worst),0.0
+Texture (mean),Perimeter (mean),0.0
+Texture (mean),Area (mean),0.0
+Texture (mean),Smoothness (mean),0.0
+Texture (mean),Compactness (mean),0.0
+Texture (mean),Concavity (mean),0.0
+Texture (mean),Concave points (mean),0.0
+Texture (mean),Symmetry (mean),0.0
+Texture (mean),Fractal dimension (mean),0.0
+Texture (mean),Radius (se),0.0
+Texture (mean),Texture (se),0.0
+Texture (mean),Perimeter (se),0.0
+Texture (mean),Area (se),93.98
+Texture (mean),Smoothness (se),0.0
+Texture (mean),Compactness (se),0.0
+Texture (mean),Concavity (se),0.0
+Texture (mean),Concave points (se),0.0
+Texture (mean),Symmetry (se),0.0
+Texture (mean),Fractal dimension (se),0.0
+Texture (mean),Radius (worst),85.57
+Texture (mean),Texture (worst),96.22
+Texture (mean),Perimeter (worst),0.0
+Texture (mean),Area (worst),0.0
+Texture (mean),Smoothness (worst),0.0
+Texture (mean),Compactness (worst),0.0
+Texture (mean),Concavity (worst),0.0
+Texture (mean),Concave points (worst),0.0
+Texture (mean),Symmetry (worst),0.0
+Texture (mean),Fractal dimension (worst),0.0
+Perimeter (mean),Area (mean),0.0
+Perimeter (mean),Smoothness (mean),0.0
+Perimeter (mean),Compactness (mean),0.0
+Perimeter (mean),Concavity (mean),0.0
+Perimeter (mean),Concave points (mean),0.0
+Perimeter (mean),Symmetry (mean),0.0
+Perimeter (mean),Fractal dimension (mean),0.0
+Perimeter (mean),Radius (se),0.0
+Perimeter (mean),Texture (se),0.0
+Perimeter (mean),Perimeter (se),0.0
+Perimeter (mean),Area (se),24.37
+Perimeter (mean),Smoothness (se),0.0
+Perimeter (mean),Compactness (se),0.0
+Perimeter (mean),Concavity (se),0.0
+Perimeter (mean),Concave points (se),0.0
+Perimeter (mean),Symmetry (se),0.0
+Perimeter (mean),Fractal dimension (se),0.0
+Perimeter (mean),Radius (worst),0.0
+Perimeter (mean),Texture (worst),0.0
+Perimeter (mean),Perimeter (worst),98.74
+Perimeter (mean),Area (worst),0.0
+Perimeter (mean),Smoothness (worst),0.0
+Perimeter (mean),Compactness (worst),0.0
+Perimeter (mean),Concavity (worst),0.0
+Perimeter (mean),Concave points (worst),0.0
+Perimeter (mean),Symmetry (worst),0.0
+Perimeter (mean),Fractal dimension (worst),0.0
+Area (mean),Smoothness (mean),0.0
+Area (mean),Compactness (mean),0.0
+Area (mean),Concavity (mean),0.0
+Area (mean),Concave points (mean),0.0
+Area (mean),Symmetry (mean),0.0
+Area (mean),Fractal dimension (mean),0.0
+Area (mean),Radius (se),0.0
+Area (mean),Texture (se),0.0
+Area (mean),Perimeter (se),0.0
+Area (mean),Area (se),0.0
+Area (mean),Smoothness (se),0.0
+Area (mean),Compactness (se),0.0
+Area (mean),Concavity (se),0.0
+Area (mean),Concave points (se),0.0
+Area (mean),Symmetry (se),0.0
+Area (mean),Fractal dimension (se),0.0
+Area (mean),Radius (worst),0.0
+Area (mean),Texture (worst),0.0
+Area (mean),Perimeter (worst),0.0
+Area (mean),Area (worst),99.02
+Area (mean),Smoothness (worst),0.0
+Area (mean),Compactness (worst),0.0
+Area (mean),Concavity (worst),0.0
+Area (mean),Concave points (worst),0.0
+Area (mean),Symmetry (worst),0.0
+Area (mean),Fractal dimension (worst),0.0
+Smoothness (mean),Compactness (mean),88.24
+Smoothness (mean),Concavity (mean),65.13
+Smoothness (mean),Concave points (mean),20.31
+Smoothness (mean),Symmetry (mean),25.07
+Smoothness (mean),Fractal dimension (mean),79.69
+Smoothness (mean),Radius (se),8.4
+Smoothness (mean),Texture (se),0.0
+Smoothness (mean),Perimeter (se),0.0
+Smoothness (mean),Area (se),0.0
+Smoothness (mean),Smoothness (se),0.0
+Smoothness (mean),Compactness (se),45.1
+Smoothness (mean),Concavity (se),54.06
+Smoothness (mean),Concave points (se),0.28
+Smoothness (mean),Symmetry (se),0.28
+Smoothness (mean),Fractal dimension (se),0.0
+Smoothness (mean),Radius (worst),0.0
+Smoothness (mean),Texture (worst),0.0
+Smoothness (mean),Perimeter (worst),0.0
+Smoothness (mean),Area (worst),0.0
+Smoothness (mean),Smoothness (worst),96.36
+Smoothness (mean),Compactness (worst),71.57
+Smoothness (mean),Concavity (worst),70.31
+Smoothness (mean),Concave points (worst),86.83
+Smoothness (mean),Symmetry (worst),0.28
+Smoothness (mean),Fractal dimension (worst),99.72
+Compactness (mean),Concavity (mean),88.24
+Compactness (mean),Concave points (mean),64.29
+Compactness (mean),Symmetry (mean),58.68
+Compactness (mean),Fractal dimension (mean),77.45
+Compactness (mean),Radius (se),24.93
+Compactness (mean),Texture (se),0.0
+Compactness (mean),Perimeter (se),0.0
+Compactness (mean),Area (se),0.0
+Compactness (mean),Smoothness (se),0.42
+Compactness (mean),Compactness (se),59.38
+Compactness (mean),Concavity (se),73.39
+Compactness (mean),Concave points (se),13.17
+Compactness (mean),Symmetry (se),40.9
+Compactness (mean),Fractal dimension (se),0.98
+Compactness (mean),Radius (worst),0.0
+Compactness (mean),Texture (worst),0.0
+Compactness (mean),Perimeter (worst),0.0
+Compactness (mean),Area (worst),0.0
+Compactness (mean),Smoothness (worst),77.03
+Compactness (mean),Compactness (worst),85.99
+Compactness (mean),Concavity (worst),83.47
+Compactness (mean),Concave points (worst),96.08
+Compactness (mean),Symmetry (worst),7.56
+Compactness (mean),Fractal dimension (worst),85.57
+Concavity (mean),Concave points (mean),93.84
+Concavity (mean),Symmetry (mean),52.52
+Concavity (mean),Fractal dimension (mean),61.48
+Concavity (mean),Radius (se),47.06
+Concavity (mean),Texture (se),0.84
+Concavity (mean),Perimeter (se),0.0
+Concavity (mean),Area (se),0.0
+Concavity (mean),Smoothness (se),60.5
+Concavity (mean),Compactness (se),93.98
+Concavity (mean),Concavity (se),99.86
+Concavity (mean),Concave points (se),84.31
+Concavity (mean),Symmetry (se),81.93
+Concavity (mean),Fractal dimension (se),68.07
+Concavity (mean),Radius (worst),0.0
+Concavity (mean),Texture (worst),0.0
+Concavity (mean),Perimeter (worst),0.0
+Concavity (mean),Area (worst),0.0
+Concavity (mean),Smoothness (worst),57.98
+Concavity (mean),Compactness (worst),80.39
+Concavity (mean),Concavity (worst),98.04
+Concavity (mean),Concave points (worst),99.3
+Concavity (mean),Symmetry (worst),50.42
+Concavity (mean),Fractal dimension (worst),63.45
+Concave points (mean),Symmetry (mean),0.0
+Concave points (mean),Fractal dimension (mean),53.22
+Concave points (mean),Radius (se),0.0
+Concave points (mean),Texture (se),0.0
+Concave points (mean),Perimeter (se),0.0
+Concave points (mean),Area (se),0.0
+Concave points (mean),Smoothness (se),70.59
+Concave points (mean),Compactness (se),97.34
+Concave points (mean),Concavity (se),98.32
+Concave points (mean),Concave points (se),96.36
+Concave points (mean),Symmetry (se),91.46
+Concave points (mean),Fractal dimension (se),82.91
+Concave points (mean),Radius (worst),0.0
+Concave points (mean),Texture (worst),0.0
+Concave points (mean),Perimeter (worst),0.0
+Concave points (mean),Area (worst),0.0
+Concave points (mean),Smoothness (worst),1.12
+Concave points (mean),Compactness (worst),26.33
+Concave points (mean),Concavity (worst),64.29
+Concave points (mean),Concave points (worst),82.63
+Concave points (mean),Symmetry (worst),0.0
+Concave points (mean),Fractal dimension (worst),40.62
+Symmetry (mean),Fractal dimension (mean),0.0
+Symmetry (mean),Radius (se),77.87
+Symmetry (mean),Texture (se),0.0
+Symmetry (mean),Perimeter (se),0.0
+Symmetry (mean),Area (se),0.0
+Symmetry (mean),Smoothness (se),0.0
+Symmetry (mean),Compactness (se),0.28
+Symmetry (mean),Concavity (se),50.56
+Symmetry (mean),Concave points (se),0.0
+Symmetry (mean),Symmetry (se),0.0
+Symmetry (mean),Fractal dimension (se),0.0
+Symmetry (mean),Radius (worst),0.0
+Symmetry (mean),Texture (worst),0.0
+Symmetry (mean),Perimeter (worst),0.0
+Symmetry (mean),Area (worst),0.0
+Symmetry (mean),Smoothness (worst),85.01
+Symmetry (mean),Compactness (worst),81.93
+Symmetry (mean),Concavity (worst),73.95
+Symmetry (mean),Concave points (worst),36.83
+Symmetry (mean),Symmetry (worst),66.53
+Symmetry (mean),Fractal dimension (worst),8.82
+Fractal dimension (mean),Radius (se),0.0
+Fractal dimension (mean),Texture (se),0.0
+Fractal dimension (mean),Perimeter (se),0.0
+Fractal dimension (mean),Area (se),0.0
+Fractal dimension (mean),Smoothness (se),0.0
+Fractal dimension (mean),Compactness (se),52.38
+Fractal dimension (mean),Concavity (se),53.36
+Fractal dimension (mean),Concave points (se),0.98
+Fractal dimension (mean),Symmetry (se),24.79
+Fractal dimension (mean),Fractal dimension (se),0.0
+Fractal dimension (mean),Radius (worst),0.0
+Fractal dimension (mean),Texture (worst),0.0
+Fractal dimension (mean),Perimeter (worst),0.0
+Fractal dimension (mean),Area (worst),0.0
+Fractal dimension (mean),Smoothness (worst),8.54
+Fractal dimension (mean),Compactness (worst),57.28
+Fractal dimension (mean),Concavity (worst),57.84
+Fractal dimension (mean),Concave points (worst),73.81
+Fractal dimension (mean),Symmetry (worst),0.0
+Fractal dimension (mean),Fractal dimension (worst),91.74
+Radius (se),Texture (se),25.49
+Radius (se),Perimeter (se),0.98
+Radius (se),Area (se),0.0
+Radius (se),Smoothness (se),0.0
+Radius (se),Compactness (se),0.0
+Radius (se),Concavity (se),43.84
+Radius (se),Concave points (se),0.0
+Radius (se),Symmetry (se),0.0
+Radius (se),Fractal dimension (se),0.0
+Radius (se),Radius (worst),0.0
+Radius (se),Texture (worst),0.0
+Radius (se),Perimeter (worst),0.0
+Radius (se),Area (worst),0.0
+Radius (se),Smoothness (worst),48.32
+Radius (se),Compactness (worst),86.83
+Radius (se),Concavity (worst),80.67
+Radius (se),Concave points (worst),13.03
+Radius (se),Symmetry (worst),91.6
+Radius (se),Fractal dimension (worst),4.2
+Texture (se),Perimeter (se),89.5
+Texture (se),Area (se),0.0
+Texture (se),Smoothness (se),0.0
+Texture (se),Compactness (se),0.0
+Texture (se),Concavity (se),0.56
+Texture (se),Concave points (se),0.0
+Texture (se),Symmetry (se),0.0
+Texture (se),Fractal dimension (se),0.0
+Texture (se),Radius (worst),0.0
+Texture (se),Texture (worst),0.0
+Texture (se),Perimeter (worst),0.0
+Texture (se),Area (worst),0.0
+Texture (se),Smoothness (worst),0.0
+Texture (se),Compactness (worst),7.14
+Texture (se),Concavity (worst),33.19
+Texture (se),Concave points (worst),0.0
+Texture (se),Symmetry (worst),1.54
+Texture (se),Fractal dimension (worst),0.0
+Perimeter (se),Area (se),0.0
+Perimeter (se),Smoothness (se),0.0
+Perimeter (se),Compactness (se),0.0
+Perimeter (se),Concavity (se),0.0
+Perimeter (se),Concave points (se),0.0
+Perimeter (se),Symmetry (se),0.0
+Perimeter (se),Fractal dimension (se),0.0
+Perimeter (se),Radius (worst),0.0
+Perimeter (se),Texture (worst),0.0
+Perimeter (se),Perimeter (worst),0.0
+Perimeter (se),Area (worst),0.0
+Perimeter (se),Smoothness (worst),0.0
+Perimeter (se),Compactness (worst),0.0
+Perimeter (se),Concavity (worst),7.84
+Perimeter (se),Concave points (worst),0.0
+Perimeter (se),Symmetry (worst),0.0
+Perimeter (se),Fractal dimension (worst),0.0
+Area (se),Smoothness (se),0.0
+Area (se),Compactness (se),0.0
+Area (se),Concavity (se),0.0
+Area (se),Concave points (se),0.0
+Area (se),Symmetry (se),0.0
+Area (se),Fractal dimension (se),0.0
+Area (se),Radius (worst),74.79
+Area (se),Texture (worst),92.86
+Area (se),Perimeter (worst),11.9
+Area (se),Area (worst),0.0
+Area (se),Smoothness (worst),0.0
+Area (se),Compactness (worst),0.0
+Area (se),Concavity (worst),0.0
+Area (se),Concave points (worst),0.0
+Area (se),Symmetry (worst),0.0
+Area (se),Fractal dimension (worst),0.0
+Smoothness (se),Compactness (se),83.61
+Smoothness (se),Concavity (se),78.01
+Smoothness (se),Concave points (se),96.22
+Smoothness (se),Symmetry (se),42.16
+Smoothness (se),Fractal dimension (se),93.14
+Smoothness (se),Radius (worst),0.0
+Smoothness (se),Texture (worst),0.0
+Smoothness (se),Perimeter (worst),0.0
+Smoothness (se),Area (worst),0.0
+Smoothness (se),Smoothness (worst),0.0
+Smoothness (se),Compactness (worst),0.0
+Smoothness (se),Concavity (worst),52.94
+Smoothness (se),Concave points (worst),51.54
+Smoothness (se),Symmetry (worst),0.0
+Smoothness (se),Fractal dimension (worst),0.0
+Compactness (se),Concavity (se),95.66
+Compactness (se),Concave points (se),95.52
+Compactness (se),Symmetry (se),89.36
+Compactness (se),Fractal dimension (se),73.95
+Compactness (se),Radius (worst),0.0
+Compactness (se),Texture (worst),0.0
+Compactness (se),Perimeter (worst),0.0
+Compactness (se),Area (worst),0.0
+Compactness (se),Smoothness (worst),10.36
+Compactness (se),Compactness (worst),22.97
+Compactness (se),Concavity (worst),66.53
+Compactness (se),Concave points (worst),89.36
+Compactness (se),Symmetry (worst),0.0
+Compactness (se),Fractal dimension (worst),50.0
+Concavity (se),Concave points (se),95.94
+Concavity (se),Symmetry (se),86.69
+Concavity (se),Fractal dimension (se),84.45
+Concavity (se),Radius (worst),0.0
+Concavity (se),Texture (worst),0.0
+Concavity (se),Perimeter (worst),0.0
+Concavity (se),Area (worst),0.0
+Concavity (se),Smoothness (worst),52.24
+Concavity (se),Compactness (worst),63.17
+Concavity (se),Concavity (worst),97.76
+Concavity (se),Concave points (worst),99.72
+Concavity (se),Symmetry (worst),50.0
+Concavity (se),Fractal dimension (worst),53.5
+Concave points (se),Symmetry (se),71.85
+Concave points (se),Fractal dimension (se),97.76
+Concave points (se),Radius (worst),0.0
+Concave points (se),Texture (worst),0.0
+Concave points (se),Perimeter (worst),0.0
+Concave points (se),Area (worst),0.0
+Concave points (se),Smoothness (worst),0.0
+Concave points (se),Compactness (worst),2.1
+Concave points (se),Concavity (worst),58.96
+Concave points (se),Concave points (worst),62.89
+Concave points (se),Symmetry (worst),0.0
+Concave points (se),Fractal dimension (worst),0.0
+Symmetry (se),Fractal dimension (se),46.5
+Symmetry (se),Radius (worst),0.0
+Symmetry (se),Texture (worst),0.0
+Symmetry (se),Perimeter (worst),0.0
+Symmetry (se),Area (worst),0.0
+Symmetry (se),Smoothness (worst),0.0
+Symmetry (se),Compactness (worst),9.24
+Symmetry (se),Concavity (worst),56.72
+Symmetry (se),Concave points (worst),65.69
+Symmetry (se),Symmetry (worst),0.0
+Symmetry (se),Fractal dimension (worst),2.24
+Fractal dimension (se),Radius (worst),0.0
+Fractal dimension (se),Texture (worst),0.0
+Fractal dimension (se),Perimeter (worst),0.0
+Fractal dimension (se),Area (worst),0.0
+Fractal dimension (se),Smoothness (worst),0.0
+Fractal dimension (se),Compactness (worst),0.28
+Fractal dimension (se),Concavity (worst),53.78
+Fractal dimension (se),Concave points (worst),54.06
+Fractal dimension (se),Symmetry (worst),0.0
+Fractal dimension (se),Fractal dimension (worst),0.0
+Radius (worst),Texture (worst),51.96
+Radius (worst),Perimeter (worst),0.0
+Radius (worst),Area (worst),0.0
+Radius (worst),Smoothness (worst),0.0
+Radius (worst),Compactness (worst),0.0
+Radius (worst),Concavity (worst),0.0
+Radius (worst),Concave points (worst),0.0
+Radius (worst),Symmetry (worst),0.0
+Radius (worst),Fractal dimension (worst),0.0
+Texture (worst),Perimeter (worst),0.0
+Texture (worst),Area (worst),0.0
+Texture (worst),Smoothness (worst),0.0
+Texture (worst),Compactness (worst),0.0
+Texture (worst),Concavity (worst),0.0
+Texture (worst),Concave points (worst),0.0
+Texture (worst),Symmetry (worst),0.0
+Texture (worst),Fractal dimension (worst),0.0
+Perimeter (worst),Area (worst),0.0
+Perimeter (worst),Smoothness (worst),0.0
+Perimeter (worst),Compactness (worst),0.0
+Perimeter (worst),Concavity (worst),0.0
+Perimeter (worst),Concave points (worst),0.0
+Perimeter (worst),Symmetry (worst),0.0
+Perimeter (worst),Fractal dimension (worst),0.0
+Area (worst),Smoothness (worst),0.0
+Area (worst),Compactness (worst),0.0
+Area (worst),Concavity (worst),0.0
+Area (worst),Concave points (worst),0.0
+Area (worst),Symmetry (worst),0.0
+Area (worst),Fractal dimension (worst),0.0
+Smoothness (worst),Compactness (worst),78.85
+Smoothness (worst),Concavity (worst),74.79
+Smoothness (worst),Concave points (worst),75.77
+Smoothness (worst),Symmetry (worst),4.76
+Smoothness (worst),Fractal dimension (worst),79.55
+Compactness (worst),Concavity (worst),93.7
+Compactness (worst),Concave points (worst),71.01
+Compactness (worst),Symmetry (worst),77.73
+Compactness (worst),Fractal dimension (worst),68.21
+Concavity (worst),Concave points (worst),80.53
+Concavity (worst),Symmetry (worst),69.89
+Concavity (worst),Fractal dimension (worst),67.23
+Concave points (worst),Symmetry (worst),0.98
+Concave points (worst),Fractal dimension (worst),85.29
+Symmetry (worst),Fractal dimension (worst),0.0
